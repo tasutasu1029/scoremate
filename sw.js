@@ -1,5 +1,5 @@
 // スコアメイト（iPad 版）: オフラインでも開けるようにファイルを端末に保存しておく
-const VERSION = "8cca6986ca9d";
+const VERSION = "963d4adb58d8";
 const CACHE = "scoremate-" + VERSION;
 const FILES = ["./", "index.html", "sitelib.js", "manifest.webmanifest", "icon-180.png", "icon-512.png", "score-1.html"];
 const CDN = "https://cdn.jsdelivr.net/npm/abcjs@6.4.4/dist/abcjs-basic-min.js";
